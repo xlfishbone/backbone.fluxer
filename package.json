@@ -1,0 +1,45 @@
+{
+  "name": "backbone.fluxer",
+  "version": "0.0.1",
+  "description": "flux implementation for backbone.js applications. ",
+  "main": "dist/backbone.fluxer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlfishbone/backbone.fluxer.git"
+  },
+  "keywords": [
+    "flux",
+    "backbone"
+  ],
+  "author": "Josh Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xlfishbone/backbone.fluxer/issues"
+  },
+  "homepage": "https://github.com/xlfishbone/backbone.fluxer#readme",
+  "devDependencies": {
+    "backbone": "^1.3.3",
+    "del": "^2.2.1",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-webpack": "^1.5.0",
+    "immutable": "^3.8.1",
+    "jasmine-core": "^2.4.1",
+    "jquery": "^3.1.0",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-spec-reporter": "0.0.26",
+    "pump": "^1.0.1",
+    "sessionstorage": "0.0.1",
+    "underscore": "^1.8.3",
+    "webpack": "^1.13.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
